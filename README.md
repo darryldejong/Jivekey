@@ -1,7 +1,7 @@
 # JiveKey
 **A password generator extension** that helps you create strong, secure passwords.
 
-![Extension2](Extension2.png)
+![Image](/images/image.png)
 
 ## Features
 - **Generate Passwords**: Create complex and unique passwords.
